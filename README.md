@@ -2,7 +2,7 @@
 # IICT Project: "Fit Crew" Gym Website
 
 **Course:** IICT Project Work  
-**Author:** Sabiha Abidd
+**Author:** Sabiha Abid , Eman Bilal, Syed Shahnabi
 
 A modern and responsive multi-page website for a fictional gym and fitness center named "Fit Crew". This project was created to demonstrate core skills in front-end web development using pure HTML5 and CSS3, focusing on structure, styling, and responsive design across multiple pages.
 
